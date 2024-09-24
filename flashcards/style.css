@@ -1,0 +1,20 @@
+body{
+    background-color: antiquewhite;
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
+    height: auto;
+}
+
+.js, .css{
+    background-color: brown;
+    border: 1px;
+    border-radius: 2px;
+}
+
+footer{
+    background-color: aqua;
+    color: white;
+    padding: 1rem;
+    font-size: 8px;
+}
